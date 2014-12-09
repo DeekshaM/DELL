@@ -91,7 +91,7 @@ public class AppletForm extends javax.swing.JApplet {
         jMenu1.add(jMenuItem1);
 
         jMenuItem2.setMnemonic('X');
-        jMenuItem2.setText("Exit");
+        jMenuItem2.setText("Exit-x");
         jMenu1.add(jMenuItem2);
 
         jMenuBar1.add(jMenu1);
